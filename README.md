@@ -1,1 +1,1 @@
-# mdadash.psdtemplates.github.io
+# mdadash.psdtemplates
